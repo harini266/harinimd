@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="view port"content="width-device-width,initial-scale-1.0">
+    <title> document</title>
+</head>
+<body>
+    <h1> HARINI.MD</h1>
+    <P>email:hariniharish688@gamil.com<br> date of birth: 30.03.2004<br> phone number: 8056240510</P>
+    <h2> CARRER OBJECTIVE</h2>
+    <P> to contribute my postivwe attitude,adaptability and strong communication skills to support team goals and deliver work</P>
+    <h2> EDUCTAION QUALIFICATION</h2>
+    <ul>
+    <P>
+        <li> BSC MATHS WITH COMPUTER APPICALATION ,VCW COLLEGE ,MADRAS UNIVERSITIES,69%</li>
+        <li>SSLC,OUR'S LADY'S MATRIC .HR.SEC.SCHOOL,70%</li>
+        <li>HSC,SRI LAKSHMI NARYANA MATRIC.HR.SEC.SCHOOL,69%</li>
+    </P>
+    </ul>
+    <h2> SKILLS</h2>
+    <ul>
+        <li>computer language</li>
+        <li> excel</li>
+        <li> typing</li>
+    </ul>
+    <h2>
+        HOBBIES
+    </h2>
+    <ul>
+        <li> listening music</li>
+        <li> cooking</li>
+        <li> watching cricket</li>
+    </ul>
+    <h2> LANGUAGE</h2>
+    <ul> 
+        <li> english</li>
+        <li> tamil</li>
+        <li> telegu</li>
+    </ul>
+</body>
+</html>
